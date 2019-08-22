@@ -1,3 +1,3 @@
-# PHPStorm 性冷淡主题
+# PHPStorm Gayhub/Bright/Sexless Theme
 
 <img  src="./screenshot.jpg"/>
