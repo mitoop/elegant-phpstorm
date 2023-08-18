@@ -1,6 +1,8 @@
-# My PHPStorm Setting
+# PhpStorm Settings
 
-<img  src="./Scheenshot/screenshot.jpg" alt="screenshot"/>
+`Light` & `Minimalist` to focus on codeself.
+
+<img  src="./screenshot.jpg" alt="screenshot"/>
 
 
 
