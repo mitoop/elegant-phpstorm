@@ -11,6 +11,6 @@
 <img  src="./4.jpg" alt="screenshot"/>
 
 ## Ramark
-天空蓝 Accent Color 387BFF
+Sky Blue: Accent Color #387BFF
 
-嘟嘟粉 Accent Color F082AC
+Dracula Pink: Accent Color #FF79C6
