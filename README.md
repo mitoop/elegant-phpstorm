@@ -5,4 +5,6 @@
 <img  src="./screenshot.jpg" alt="screenshot"/>
 
 ## Ramark
-Accent Color 387BFF
+天空蓝 Accent Color 387BFF
+
+嘟嘟粉 Accent Color F082AC
