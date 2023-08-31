@@ -8,13 +8,7 @@
 3. Highly recommend `Laravel Idea` & `GitHub Copilot`
 
 ## Screenshot
-<img  src="./images/1.jpg" alt="screenshot"/>
-
-<img  src="./images/2.jpg" alt="screenshot"/>
-
-<img  src="./images/3.jpg" alt="screenshot"/>
-
-<img  src="./images/4.jpg" alt="screenshot"/>
+<img  src="./images/1.png" alt="screenshot"/>
 
 ## Ramark
 Accent Color: `#387BFF`(Sky Blue 天空蓝) or `#FF79C6`(Dracula Pink 猛男粉)
