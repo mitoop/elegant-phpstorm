@@ -11,4 +11,4 @@
 <img  src="./images/1.png" alt="screenshot"/>
 
 ## Ramark
-Accent Color: `#387BFF`(Sky Blue 天空蓝) or `#FF79C6`(Dracula Pink 猛男粉)
+Accent Color: `#165DFF` semi 蓝
