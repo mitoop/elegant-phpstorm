@@ -11,4 +11,4 @@
 <img  src="./images/1.png" alt="screenshot"/>
 
 ## Ramark
-Accent Color: `#165DFF` semi 蓝
+Accent Color: `#165DFF`
